@@ -88,10 +88,12 @@ input{
 .foot img{
     height: auto;
     border-radius: 10px;
+    width: 20vw;
 }
 .con1{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+    width: 40vw;
 }
 
 .foot1{
@@ -107,11 +109,13 @@ input{
 .foot1 img{
     border-radius: 10px;
     height: auto;
+    width: 20vw;
 }
 
 .con2{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+    width: 40vw;
 }
 /* .foot1{
     border-radius: 5px;
@@ -132,10 +136,17 @@ input{
 .con3{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 25px;
+    /* font-size: 25px; */
+    width: 40vw;
     
     
 }
+/*  In this we didnot insert pic just for formality */
+.foot img {
+    height: auto;
+    width: 20vw;
+    border-radius: 10px;
+  }
 
 .foot3{
     display: flex;
@@ -151,14 +162,15 @@ input{
 .con4{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 25px;
-    width: 60vh;
+    /* font-size: 25px; */
+    width: 40vh;
 }
 
 .foot3 img{
     height: auto;
-    width: 50vh;
+    /* width: 50vh; */
     border-radius: 5px;
+    width: 20vh;
 }
 
 .list{
